@@ -1,1 +1,1 @@
-echo "Hello , this  sample code message"
+echo "Welcome to the demo project"
